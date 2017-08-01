@@ -1,7 +1,7 @@
 {
     "name": "MDTransitioning",
     "version": "1.0.0",
-    "summary": "AsyncDisplayKit Extensions",
+    "summary": "transition and interaction",
     "description": "This is transition and interaction.",
     "homepage": "https://github.com/Modool/MDTransitioning",
     "license": "MIT",
