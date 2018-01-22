@@ -1,0 +1,21 @@
+{
+    "name": "MDReactiveCocoaHTTPClient",
+    "version": "1.0.0",
+    "summary": "MDReactiveCocoaHTTPClient.",
+    "description": "MDReactiveCocoaHTTPClient",
+    "homepage": "https://github.com/Modool/MDReactiveCocoaHTTPClient",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDReactiveCocoaHTTPClient.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": "MDReactiveCocoaHTTPClient/*.{h,m}",
+}

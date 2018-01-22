@@ -1,0 +1,21 @@
+{
+    "name": "MDHTTPClient",
+    "version": "1.0.0",
+    "summary": "MDHTTPClient.",
+    "description": "MDHTTPClient",
+    "homepage": "https://github.com/Modool/MDHTTPClient",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDHTTPClient.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": "MDHTTPClient/*.{h,m}",
+}
