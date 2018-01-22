@@ -18,4 +18,9 @@
     },
     "requires_arc": true,
     "source_files": "MDHTTPClient/*.{h,m}",
+    "dependencies": {
+        "AFNetworking": [
+            "~> 3.1.0"
+        ]
+    }
 }
