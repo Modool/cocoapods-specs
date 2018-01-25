@@ -1,0 +1,21 @@
+{
+    "name": "MDQueuObject",
+    "version": "1.0.0",
+    "summary": "MDQueuObject.",
+    "description": "MDQueuObject",
+    "homepage": "https://github.com/Modool/MDQueuObject",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDQueuObject.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": "MDQueuObject/*.{h,m}"
+}
