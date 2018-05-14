@@ -1,8 +1,8 @@
 {
     "name": "MDLauncher",
     "version": "1.0.0",
-    "summary": "transition and interaction",
-    "description": "This is transition and interaction.",
+    "summary": "Info of version and state after app launched",
+    "description": "Info of version and state after app launched.",
     "homepage": "https://github.com/Modool/MDLauncher",
     "license": "MIT",
     "authors": {

@@ -1,0 +1,21 @@
+{
+    "name": "MDOperationQueue",
+    "version": "1.0.0",
+    "summary": "An solution for multiple thread with dispatch queue and group",
+    "description": "This is an solution for multiple thread with dispatch queue and group.",
+    "homepage": "https://github.com/Modool/MDOperationQueue",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDOperationQueue.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": "MDOperationQueue/*.{h,m}",
+}
