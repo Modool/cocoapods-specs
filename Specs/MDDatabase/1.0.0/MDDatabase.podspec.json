@@ -1,0 +1,22 @@
+{
+    "name": "MDDatabase",
+    "version": "1.0.0",
+    "summary": "Database processing with object without SQL",
+    "description": "Database processing with object without SQL.",
+    "homepage": "https://github.com/Modool/MDDatabase",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDDatabase.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": ["MDObjectDatabase/*.{h,m}", "MDObjectDatabase/Access/*.{h,m}", "MDObjectDatabase/Database/*.{h,m}"
+    ],
+}
