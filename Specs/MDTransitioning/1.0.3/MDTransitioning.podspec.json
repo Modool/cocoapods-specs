@@ -1,0 +1,22 @@
+{
+    "name": "MDTransitioning",
+    "version": "1.0.3",
+    "summary": "transition and interaction",
+    "description": "This is transition and interaction.",
+    "homepage": "https://github.com/Modool/MDTransitioning",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/MDTransitioning.git",
+        "tag": "1.0.3"
+    },
+    "requires_arc": true,
+    "source_files": "MDTransitioning/*.{h,m}",
+    "private_header_files": "MDTransitioning/MDTransitioning+Private.h"
+}
