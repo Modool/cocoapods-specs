@@ -18,5 +18,5 @@
     },
     "requires_arc": true,
     "source_files": ["MDObjectDatabase/*.{h,m}", "MDObjectDatabase/Access/*.{h,m}", "MDObjectDatabase/Database/*.{h,m}"],
-    "private_header_files": "MDRouter/Private/*.h"
+    "private_header_files": ["MDObjectDatabase/AccessPrivate/*.{h,m}", "MDObjectDatabase/DatabasePrivate/*.{h,m}"]
 }
