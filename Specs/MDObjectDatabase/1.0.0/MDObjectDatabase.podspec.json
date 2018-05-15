@@ -1,5 +1,5 @@
 {
-    "name": "MDDatabase",
+    "name": "MDObjectDatabase",
     "version": "1.0.0",
     "summary": "Database processing with object without SQL",
     "description": "Database processing with object without SQL.",
