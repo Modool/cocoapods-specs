@@ -18,5 +18,10 @@
     },
     "requires_arc": true,
     "source_files": ["MDObjectDatabase/*.{h,m}", "MDObjectDatabase/Access/*.{h,m}", "MDObjectDatabase/AccessPrivate/*.{h,m}", "MDObjectDatabase/Database/*.{h,m}", "MDObjectDatabase/DatabasePrivate/*.{h,m}"],
-    "private_header_files": ["MDObjectDatabase/AccessPrivate/*.{h,m}", "MDObjectDatabase/DatabasePrivate/*.{h,m}"]
+    "private_header_files": ["MDObjectDatabase/AccessPrivate/*.{h,m}", "MDObjectDatabase/DatabasePrivate/*.{h,m}"],
+    "dependencies": {
+        "FMDB": [
+            "~> 2.7"
+        ]
+    }
 }
