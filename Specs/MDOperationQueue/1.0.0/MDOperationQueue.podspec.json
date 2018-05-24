@@ -18,4 +18,5 @@
     },
     "requires_arc": true,
     "source_files": "MDOperationQueue/*.{h,m}",
+    "private_header_files": ["MDOperationQueue/*+Private.h"]
 }
