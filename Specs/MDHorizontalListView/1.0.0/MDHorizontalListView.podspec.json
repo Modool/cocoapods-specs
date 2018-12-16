@@ -17,5 +17,5 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": "MDHorizontalListView/MDHorizontalListView/*.{h,m}"
+    "source_files": "MDHorizontalListView/*.{h,m}"
 }
