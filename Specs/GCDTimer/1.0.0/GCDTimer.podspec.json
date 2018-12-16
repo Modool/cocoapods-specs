@@ -18,5 +18,5 @@
     },
     "requires_arc": true,
     "source_files": "GCDTimer/GCDTimer/*.{h,m}",
-    "private_header_files ": "GCDTimer/GCDTimer/GCDTimer+Private.h"
+    "private_header_files": "GCDTimer/GCDTimer/GCDTimer+Private.h"
 }
