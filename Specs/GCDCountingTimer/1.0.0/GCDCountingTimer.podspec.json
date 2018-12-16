@@ -1,0 +1,21 @@
+{
+    "name": "GCDCountingTimer",
+    "version": "1.0.0",
+    "summary": "GCDCountingTimer.",
+    "description": "Counting timer based on GCD.",
+    "homepage": "https://github.com/Modool/GCDTimer",
+    "license": "MIT",
+    "authors": {
+        "Modool": "https://github.com/Modool"
+    },
+    "social_media_url": "https://github.com/Modool",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "git": "https://github.com/Modool/GCDTimer.git",
+        "tag": "1.0.0"
+    },
+    "requires_arc": true,
+    "source_files": "GCDTimer/GCDCountingTimer/*.{h,m}"
+}
