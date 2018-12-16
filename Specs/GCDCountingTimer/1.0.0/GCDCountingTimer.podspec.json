@@ -17,5 +17,10 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": "GCDTimer/GCDCountingTimer/*.{h,m}"
+    "source_files": "GCDTimer/GCDCountingTimer/*.{h,m}",
+    "dependencies": {
+        "GCDTimer": [
+            "~> 1.0.0"
+        ]
+    }
 }

@@ -17,6 +17,6 @@
         "tag": "1.0.0"
     },
     "requires_arc": true,
-    "source_files": "GCDTimer/GCDTimer/*.{h,m}",
-    "private_header_files ": "GCDTimer/Private/*.h"
+    "source_files": "GCDTimer/GCDTimer/**/.{h,m}",
+    "private_header_files ": "GCDTimer/GCDTimer/Private/*.h"
 }
