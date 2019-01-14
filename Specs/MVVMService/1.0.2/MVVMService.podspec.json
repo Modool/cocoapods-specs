@@ -1,6 +1,6 @@
 {
     "name": "MVVMService",
-    "version": "1.0.1",
+    "version": "1.0.2,
     "summary": "MVVMService.",
     "description": "MVVM service.",
     "homepage": "https://github.com/Modool/MVVMService",
@@ -14,7 +14,7 @@
     },
     "source": {
         "git": "https://github.com/Modool/MVVMService.git",
-        "tag": "1.0.1"
+        "tag": "1.0.2"
     },
     "requires_arc": true,
     "source_files": "MVVMService/**/*.{h,m}",
